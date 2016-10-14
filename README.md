@@ -1,0 +1,2 @@
+# smallest-common
+FCC challenge
